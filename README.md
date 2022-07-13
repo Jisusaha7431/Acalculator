@@ -3,7 +3,7 @@
 (CALCULATOR)
 
 
-**✓°  (Termux install and run prosess...)
+**✓°  (Install and run prosess...)
 
 
 
