@@ -1,5 +1,11 @@
 # Acalculator 
 
+(CALCULATOR)
+
+
+**✓°  (Termux install and run prosess...)
+
+
 
 
 pkg update -y
